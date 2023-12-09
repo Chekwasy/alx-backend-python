@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""list float sum"""
 from typing import List
 
 
